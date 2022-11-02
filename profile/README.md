@@ -7,3 +7,6 @@ Dobar dan! We are a small team that develops applications that help you in learn
 
 ## Meet the team
 Advaita Kṛṣṇa Dāsa - ![kata](https://www.codewars.com/users/akdasa/badges/micro)
+
+## Links
+[Figma](https://www.figma.com/@akd_studios) – Our designs
