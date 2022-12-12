@@ -2,7 +2,7 @@ Dobar dan! We are a small team that develops applications that help you in learn
 
 ## Our projects
 📦 [Framework](https://github.com/akdasa-studios/framework) – Framework to build cool apps!<br>
-📜 [Shlokas](https://github.com/akdasa-studios/shlokas) – Learn Vedic verses to spiritualize your mind! ([Live demo](https://akdasa-studios-staging.netlify.app/shlokas-mobile.html))<br>
+📜 [Shlokas](https://github.com/akdasa-studios/shlokas) – Learn Vedic verses to spiritualize your mind! ([Live demo](https://akdasa-studios-staging.netlify.app/shlokas/))<br>
 📚 [BCS Books](https://github.com/akdasa-studios/bcs-books) – Mobile application for HH Bhakti Caitanya Swami books
 
 ## Meet the team
