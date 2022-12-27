@@ -7,3 +7,4 @@ Dobar dan! We are a small team that develops applications that help you in learn
 
 #
 [![LinkedIn Follow](https://img.shields.io/badge/Follow%20AKD%20Studios-f3eadb?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/company/akd-studios)
+[![PayPal](https://img.shields.io/badge/Support%20us-009cde?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/akdstudios)
