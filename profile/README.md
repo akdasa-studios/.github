@@ -5,8 +5,5 @@ Dobar dan! We are a small team that develops applications that help you in learn
 📜 [Shlokas](https://github.com/akdasa-studios/shlokas) – Learn Vedic verses to spiritualize your mind! ([Live demo](https://akdasa-studios-staging.netlify.app/shlokas/))<br>
 📚 [BCS Books](https://github.com/akdasa-studios/bcs-books) – Mobile application for HH Bhakti Caitanya Swami books
 
-## Meet the team
-Advaita Kṛṣṇa Dāsa - ![kata](https://www.codewars.com/users/akdasa/badges/micro)
-
-## Links
-[Figma](https://www.figma.com/@akd_studios) – Our designs
+#
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20AKD%20Studios-f3eadb?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/company/akd-studios)
