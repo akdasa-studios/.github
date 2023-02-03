@@ -13,3 +13,4 @@ Our ultimate goal is to help individuals transcend the physical world's limitati
 [![LinkedIn Follow](https://img.shields.io/badge/Follow%20AKD%20Studios-f3eadb?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/company/akd-studios)
 [![PayPal](https://img.shields.io/badge/Support%20us-009cde?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/akdstudios)
 [![GitHub](https://img.shields.io/badge/Become%20a%20sponsor-d858a7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/akdasa-studios)
+[![Hits](https://hits.sh/github.com/akdasa-studios.svg?style=for-the-badge)](https://hits.sh/github.com/akdasa-studios/)
