@@ -1,3 +1,5 @@
+<img src="poster.png">
+
 Dobar dan! We are a team of passionate developers who specialize in creating applications that aid in individuals' learning and spiritual development. Our mission is to empower people to become their best selves and achieve their full potential.
 
 We believe personal growth is a continuous journey, and technology can play a significant role in this process. Our team is constantly researching and developing new ways to improve our applications and make them more accessible to users. From learning languages to meditation and mindfulness, we strive to offer a wide range of tools that cater to the unique needs of each individual.
